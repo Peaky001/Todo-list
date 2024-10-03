@@ -12,7 +12,7 @@ import {
 } from '@mui/material';
 import { Edit as EditIcon, Delete as DeleteIcon } from '@mui/icons-material';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
-import './App.css';  
+import './App.css';  // Add this line
 
 const theme = createTheme();
 
